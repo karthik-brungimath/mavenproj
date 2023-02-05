@@ -1,1 +1,1 @@
-welcome to declaretive pipeline
+jenkins with tomcat declarative
